@@ -1,0 +1,14 @@
+body{
+    background-color: lawngreen;
+}
+
+#hello{
+    font-size: large;
+    margin: left;
+}
+
+#bye{
+    font-size: large;
+    float:right;
+    margin: right;
+}
